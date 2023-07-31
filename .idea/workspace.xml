@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd6856b4-86f7-485d-9846-5f0d99c8f79c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/config/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/data/Token.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/data/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/exception/BadCredentialError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/exception/EmailNotFoundError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/exception/NoBearerTokenError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/exception/PasswordDoNotMatchError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/interceptor/AuthorizationInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/service/Jwt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/service/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-security/src/main/java/com/example/apisecurity/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2T0WzKZ5HqgXSpqodqI7yF7fMZY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Windows 10/Documents/workspace/onestop-b5/affablebean-microservice/affable-bean-ui/src/main/resources/static/bootstrap&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0928efa6f1041dfcdef4b7d40406370d&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Windows 10\Documents\workspace\onestop-b5\affablebean-microservice\affable-bean-ui\src\main\resources\static\bootstrap" />
+      <recent name="C:\Users\Windows 10\Documents\workspace\onestop-b5\affablebean-microservice\affable-bean-ui\src\main\resources\static" />
+      <recent name="C:\Users\Windows 10\Documents\workspace\onestop-b5\affablebean-microservice\affable-bean-ui\src\main\java\com\example\affablebeanui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiSecurityApplication">
+    <configuration name="AffableBeanUiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="affable-bean-ui" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.affablebeanui.AffableBeanUiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AffablebeanBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="affablebean-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.affablebeanbackend.AffablebeanBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiSecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="api-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.apisecurity.ApiSecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="payment-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.paymentgateway.PaymentGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransportationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="transportation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.transportationservice.TransportationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd6856b4-86f7-485d-9846-5f0d99c8f79c" name="Changes" comment="" />
+      <created>1690180744389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690180744389</updated>
+      <workItem from="1690180745582" duration="10458000" />
+      <workItem from="1690254023147" duration="19512000" />
+      <workItem from="1690340508765" duration="12702000" />
+      <workItem from="1690431409738" duration="11392000" />
+      <workItem from="1690513422112" duration="18685000" />
+      <workItem from="1690710220196" duration="37000" />
+      <workItem from="1690823673089" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
